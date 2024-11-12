@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/nidhiRepo/static/css/main.22c4b232.css",
+    "main.js": "/nidhiRepo/static/js/main.2bd3e279.js",
+    "static/js/453.4114e439.chunk.js": "/nidhiRepo/static/js/453.4114e439.chunk.js",
+    "static/media/ongoing2.jpg": "/nidhiRepo/static/media/ongoing2.0959fa3d2fec735f7828.jpg",
+    "static/media/day.jpg": "/nidhiRepo/static/media/day.a8d95f1d5c2562a82438.jpg",
+    "static/media/ongoing1.jpg": "/nidhiRepo/static/media/ongoing1.fee00cee4476051a9e86.jpg",
+    "static/media/FirstPageVideo.mp4": "/nidhiRepo/static/media/FirstPageVideo.06ba787160a6d86c89e5.mp4",
+    "static/media/night.jpg": "/nidhiRepo/static/media/night.4abe8a5a5988ffd9fe64.jpg",
+    "static/media/img1.jpg": "/nidhiRepo/static/media/img1.0f80ec04aa7faf03d006.jpg",
+    "static/media/img7.jpg": "/nidhiRepo/static/media/img7.f89229cc7bac0af22fe2.jpg",
+    "static/media/img4.jpg": "/nidhiRepo/static/media/img4.167ef3e5f01c682c1620.jpg",
+    "static/media/lastSection.jpg": "/nidhiRepo/static/media/lastSection.6089f83ab4c1b6a009e6.jpg",
+    "static/media/img3.jpg": "/nidhiRepo/static/media/img3.66bf8f5d1a0471314353.jpg",
+    "static/media/page3Image.JPG": "/nidhiRepo/static/media/page3Image.73a71aff000eee0e1a6e.JPG",
+    "static/media/img5.jpg": "/nidhiRepo/static/media/img5.e88554e25b9308de44ad.jpg",
+    "static/media/img2.jpg": "/nidhiRepo/static/media/img2.f608f66141733d0db72d.jpg",
+    "static/media/img6.jpg": "/nidhiRepo/static/media/img6.01aec11256e7eb51f8a9.jpg",
+    "static/media/logo.png": "/nidhiRepo/static/media/logo.0bf23d209787b1f3f7fb.png",
+    "index.html": "/nidhiRepo/index.html",
+    "main.22c4b232.css.map": "/nidhiRepo/static/css/main.22c4b232.css.map",
+    "main.2bd3e279.js.map": "/nidhiRepo/static/js/main.2bd3e279.js.map",
+    "453.4114e439.chunk.js.map": "/nidhiRepo/static/js/453.4114e439.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22c4b232.css",
+    "static/js/main.2bd3e279.js"
+  ]
+}
